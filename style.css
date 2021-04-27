@@ -4,7 +4,6 @@
 
 body {
     background: black url('background.jpg') bottom center;
-    background-size: cover;
 }
 
 #container {
