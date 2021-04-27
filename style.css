@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 
-body {
+html {
     background: black url('image/background.jpg') bottom center;
     background-size: cover;
 }
