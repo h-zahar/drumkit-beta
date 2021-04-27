@@ -3,7 +3,7 @@
 }
 
 body {
-    background: black url('image/background.jpg') bottom left;
+    background: black url('image/background.jpg') bottom center;
     background-size: cover;
 }
 
