@@ -3,7 +3,7 @@
 }
 
 body {
-    background: black url('background.jpg') bottom center;
+    background-image: url('background.jpg');
 }
 
 #container {
