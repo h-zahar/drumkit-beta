@@ -1,0 +1,90 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background: url('image/background.jpg');
+}
+
+#container {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0 auto;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+header > p {
+    color: rgb(16, 11, 68);
+    border: 2px solid black;
+
+    background: linear-gradient(to bottom right, white, rgb(129, 255, 194));
+    margin-top: 100px;
+
+    padding: 20px;
+
+    box-shadow: 5px 5px 10px white, -5px -5px 10px white;
+    border-radius: 50px;
+
+    text-shadow: 0px 0px 0px black;
+}
+
+.keys {
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    margin-top: 85px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+}
+
+.key {
+    display: inline-block;
+
+    margin-left: 10px;
+    margin-right: 10px;
+
+    padding: 5px;
+
+    width: 8rem;
+    min-height: 5vw;
+    
+    background: white;
+
+    opacity: 0.8;
+    
+    border: 2px solid black;
+    border-radius: 8px;
+
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: navy;   
+}
+
+span {
+    font-size: 3vw;
+}
+
+.playing {
+    border: 2px solid orangered;
+    color: orangered;
+    transform: scale(1.1);
+}
+
+
+
