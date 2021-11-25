@@ -1,7 +1,7 @@
 # drumkit-beta
 A Mini WebApp for Playing Drum using Keyboard
 
-## Live Demo for Laptop or Desktop: <a href="https://ifall-ifail.github.io/drumkit-beta/"> Click Here </a> <br>
+## Live Demo for Laptop or Desktop: <a href="https://h-zahar.github.io/drumkit-beta/"> Click Here </a> <br>
 
 ## *Tools*
 
